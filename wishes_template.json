@@ -1,0 +1,12 @@
+{
+	"Month Date": {
+		"wish_type": [
+			{
+				"name": "<person_name_here>",
+				"phone": "<person_phone_number_here>",
+				"to_message" : "<personalized_wish_here",
+				"from_message" : "from_whom_message_here"
+			}
+		]
+	}
+}
